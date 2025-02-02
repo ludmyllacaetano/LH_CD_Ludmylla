@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## Estrutura do Repositório
 ```bash
-📂 projeto-cientista-dados  
+📂 LH_CD_Ludmylla  
 │── 📜 [README.md](README.md)               # 📖 Documentação do projeto  
 │── 📜 [requirements.txt](requirements.txt) # 📦 Pacotes e dependências  
 │── 📂 data                    # 📊 Dados utilizados  
@@ -42,11 +42,7 @@ pip install -r requirements.txt
 │   ├── 📜 [EDA-analise.pdf](reports/EDA-analise.pdf)     # 📋 Relatório em PDF da EDA  
 │   ├── 📜 [Modelagem.pdf](reports/Modelagem.pdf)       # 📜 Relatório em PDF da modelagem  
 │── 📂 models                  # 🏗️ Modelos treinados  
-│   ├── 📜 [modelo_final.pkl](models/modelo_final.pkl)    # 🎯 Modelo serializado (.pkl)  
-│── 📂 scripts                 # ⚙️ Scripts auxiliares  
-│   ├── 📜 [preprocess.py](scripts/preprocess.py)       # 🔄 Funções para pré-processamento  
-│   ├── 📜 [train.py](scripts/train.py)            # 🎯 Script para treinamento do modelo  
-│   ├── 📜 [predict.py](scripts/predict.py)          # 🔍 Script para gerar previsões  
+│   ├── 📜 [modelo_precificacao.pkl](models/modelo_precificacao.pkl)    # 🎯 Modelo serializado (.pkl)   
 ```
 
 ## 📝 Relatórios e Notebooks
