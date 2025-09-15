@@ -36,15 +36,14 @@ pip install -r requirements.txt
 │── 📜 [requirements.txt](requirements.txt) # 📦 Pacotes e dependências  
 ├── 📜 [desafio_indicium_imdb.csv](desafio_indicium_imdb.csv) # 📊 Dados utilizados 
 │── 📂 notebooks               # 📓 Jupyter Notebooks  
-│   ├── 📜 [01-EDA.ipynb](notebooks/01-EDA.ipynb)        # 📊 Análise exploratória dos dados  
-│   ├── 📜 [02-Modelagem.ipynb](notebooks/02-Modelagem.ipynb)  # 🤖 Construção e avaliação dos modelos  
+│   ├── 📜 [LH_CD_Ludmylla.ipynb](notebooks/LH_CD_Ludmylla.ipynb) # 📊 Análise exploratória dos dados e construção do modelo 
 │── 📂 models                  # 🏗️ Modelos treinados  
-│   ├── 📜 [modelo_precificacao.pkl](models/modelo_precificacao.pkl)    # 🎯 Modelo serializado (.pkl)   
+│   ├── 📜 [LH_CD_Ludmylla.pkl](models/LH_CD_Ludmylla.pkl)    # 🎯 Modelo (.pkl)   
 ```
 
 ## 📝 Relatórios e Notebooks
 **📊 [LH_CD_Ludmylla.ipynb](LH_CD_Ludmylla/notebooks/LH_CD_Ludmylla.ipynb)**
 * Contém as análises realizadas no dataset
 ## 📦 Modelo treinado
-**🏗️ [modelo_final](LH_CD_Ludmylla/models/modelo_final.pkl)**
+**🏗️ [modelo_final](LH_CD_Ludmylla/models/LH_CD_Ludmylla.pkl)**
 * Contém o modelo treinado para previsões futuras.
