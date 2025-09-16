@@ -42,8 +42,8 @@ pip install -r requirements.txt
 ```
 
 ## 📝 Relatórios e Notebooks
-**📊 [LH_CD_Ludmylla.ipynb](LH_CD_Ludmylla/notebooks/LH_CD_Ludmylla.ipynb)**
+**📊 [LH_CD_Ludmylla.ipynb](/notebooks/LH_CD_Ludmylla.ipynb)**
 * Contém as análises realizadas no dataset
 ## 📦 Modelo treinado
-**🏗️ [modelo_final](LH_CD_Ludmylla/models/LH_CD_Ludmylla.pkl)**
+**🏗️ [modelo_final](/models/LH_CD_Ludmylla.pkl)**
 * Contém o modelo treinado para previsões futuras.
